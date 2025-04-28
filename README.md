@@ -1,1 +1,41 @@
 # Finals-Lab-Task-3
+
+## Table Manipulation Using MySQL:Sample screenshot and how it works depend of what he needs.
+
+# Step by Step Process:
+1. **Create the Table**  
+   - Make a table named `products`.  
+   - Add three fields:  
+     - `id` (auto-increment and primary key)  
+     - `product_name` (text up to 100 characters, cannot be empty)  
+     - `price` (decimal number)
+# Screenshot and Structure sample:
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201.png
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%201.jpg
+
+2. **Add a Rule**  
+   - Add a `CHECK` constraint to make sure the `price` is more than 0.
+# Screenshot and Structure sample:
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201%20sample.png
+
+3. **Insert Valid Products**  
+   - Only add products with a positive price:
+     - Laptop – 999.99  
+     - Smartphone – 599.99  
+     - Tablet – 299.99  
+     - Keyboard – 19.99  
+     - Mouse – 14.99  
+     - Desk Lamp – 24.99  
+     - Speakers – 9.99  
+   - Skip items with negative prices.
+# Screenshot and Structure sample:
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%203.png
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%203.jpg
+
+4. **Update the Table**  
+   - Change the `product_name` field to allow up to 120 characters.
+# Screenshot and Structure sample:
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%204.png
+
+#Er Diagram Sample:
+https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20eer%20diagram.jpg
