@@ -1,8 +1,8 @@
 # Finals-Lab-Task-3
-# Table Manipulation Using MySQL:Sample screenshot and how it works depend of what he needs.
+## Table Manipulation Using MySQL:Sample screenshot and how it works depend of what he needs.
 
 ## Step by Step Process:
-1. **Create the Table**  
+# 1. **Create the Table**  
    - Make a table named `products`.  
    - Add three fields:  
      - `id` (auto-increment and primary key)  
@@ -12,12 +12,12 @@
 ![Image](https://github.com/user-attachments/assets/bf403c90-66ee-4f06-8255-9c9f26dfee74)
 ![Image](https://github.com/user-attachments/assets/cdf561fa-b915-4b10-a3d4-8569975d3e69)
 
-2. **Add a Rule**  
+# 2. **Add a Rule**  
    - Add a `CHECK` constraint to make sure the `price` is more than 0.
 # Screenshot and Structure sample:
 ![Image](https://github.com/user-attachments/assets/2da49bc6-f8e9-40f4-8674-bcddd17668b3)
 
-3. **Insert Valid Products**  
+# 3. **Insert Valid Products**  
    - Only add products with a positive price:
      - Laptop – 999.99  
      - Smartphone – 599.99  
@@ -31,7 +31,7 @@
 ![Image](https://github.com/user-attachments/assets/e2cc0596-6e9e-4667-bf07-29baca551c5e)
 ![Image](https://github.com/user-attachments/assets/42958314-2622-4564-a539-29d51c13fd34)
 
-4. **Update the Table**  
+# 4. **Update the Table**  
    - Change the `product_name` field to allow up to 120 characters.
 # Screenshot and Structure sample:
 ![Image](https://github.com/user-attachments/assets/a0a1a050-fd92-4d01-a430-d306638261e8)
