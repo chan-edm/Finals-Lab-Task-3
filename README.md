@@ -1,8 +1,7 @@
 # Finals-Lab-Task-3
+# Table Manipulation Using MySQL:Sample screenshot and how it works depend of what he needs.
 
-## Table Manipulation Using MySQL:Sample screenshot and how it works depend of what he needs.
-
-# Step by Step Process:
+## Step by Step Process:
 1. **Create the Table**  
    - Make a table named `products`.  
    - Add three fields:  
