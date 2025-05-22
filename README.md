@@ -10,13 +10,13 @@
      - `product_name` (text up to 100 characters, cannot be empty)  
      - `price` (decimal number)
 # Screenshot and Structure sample:
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201.png
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%201.jpg
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201.png)
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%201.jpg)
 
 2. **Add a Rule**  
    - Add a `CHECK` constraint to make sure the `price` is more than 0.
 # Screenshot and Structure sample:
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201%20sample.png
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%201%20sample.png)
 
 3. **Insert Valid Products**  
    - Only add products with a positive price:
@@ -29,13 +29,15 @@ https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb
      - Speakers – 9.99  
    - Skip items with negative prices.
 # Screenshot and Structure sample:
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%203.png
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%203.jpg
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%203.png)
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20sample%20task%203.jpg)
 
 4. **Update the Table**  
    - Change the `product_name` field to allow up to 120 characters.
 # Screenshot and Structure sample:
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%204.png
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20task%204.png)
 
 #Er Diagram Sample:
-https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20eer%20diagram.jpg
+![image](https://github.com/chan-edm/README/blob/0b4384e4e7cca76e2bfff41ad4b8c38a4df73fbb/Images/final%203%20eer%20diagram.jpg)
+
+[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
