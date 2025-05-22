@@ -40,4 +40,6 @@
 # Er Diagram Sample:
 ![Image](https://github.com/user-attachments/assets/4db0bac4-0cec-4e8b-bebf-7d7ea9bd40e6)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+ <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
+    <a href="https://chan-edm.github.io/Finals-Lab-Task-3.1/" class="btn">CONTINUE TO LEARN</a>
+
